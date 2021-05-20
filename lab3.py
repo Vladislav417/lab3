@@ -1,3 +1,4 @@
+#використайте scipy для пошуку статистичних коефіцієнтів
 from random import *
 import numpy as np
 from numpy.linalg import solve
